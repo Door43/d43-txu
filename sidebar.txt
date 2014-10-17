@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[txu:home|Door43 (txu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-txu|d43-txu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-txu/archive/master.zip|d43-txu.zip]]
+
+**Recent Changes**
+{{changes>ns = txu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/txu|Ethnologue data]]
+
